@@ -25,7 +25,9 @@ yarn dev
 
 ## 生产环境构建
 
+```bash
 yarn build
+```
 
 ## 技术栈
 

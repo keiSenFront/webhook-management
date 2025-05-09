@@ -3,12 +3,15 @@
 ## 架构设计
 
 采用组件化架构与集中式状态管理：
+
+```
 App (Root)
 ├── WebhookList (容器组件)
 │ ├── WebhookCard (展示组件)
 │ ├── WebhookForm
 │ └── TriggerModal
 └── ThemeToggle
+```
 
 ## 状态管理
 
