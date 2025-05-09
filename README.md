@@ -12,15 +12,16 @@
 
 ## 安装指南
 
-1. 克隆仓库
+```bash
+# 克隆仓库
+git clone https://github.com/keiSenFront/webhook-management.git
 
-2. 安装依赖:
-
+# 安装依赖
 yarn install
 
-3. 启动开发服务器:
-
+# 启动开发服务器
 yarn dev
+```
 
 ## 生产环境构建
 
